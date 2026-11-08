@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "group": "gulag_bone",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:bone_meal"
+    }
+  },
+  "result": {
+    "id": "mathgulag:bone_block",
+    "count": 1
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "group": "gulag_meat",
+  "ingredients": [
+    {
+      "item": "mathgulag:meat_block"
+    },
+    {
+      "item": "minecraft:bone"
+    },
+    {
+      "item": "minecraft:bone"
+    }
+  ],
+  "result": {
+    "id": "mathgulag:meat_bone_block",
+    "count": 1
+  }
+}

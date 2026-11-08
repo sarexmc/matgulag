@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "id": "mathgulag",
+  "version": "1.1.0",
+  "name": "MathGulag",
+  "description": "Gulag: bomba caliente con preguntas, HUD de venas, calavera y arena de gleba.",
+  "authors": [],
+  "license": "All Rights Reserved",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.mathgulag.GulagMod"
+    ],
+    "client": [
+      "com.mathgulag.client.GulagClient"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.16.0",
+    "fabric-api": "*",
+    "minecraft": "~1.21.1",
+    "java": ">=21"
+  }
+}
